@@ -21,6 +21,9 @@ The Spiralverse is also the narrative layer for the **Spiral Cascade Behavioral 
 ### Lore Guides
 - [The Six Sacred Tongues](articles/05_six_sacred_tongues.md) -- How magic feels: emotional languages that shape the Spiralverse
 
+### Editorials
+- [Why Collaborative Magic Is Spiralverse's Strongest Edge](articles/06_collaborative_magic_strongest_edge.md) -- Market positioning: magic as social technology
+
 ## Core Characters
 
 | Character | Role | Tongue Affinity |
