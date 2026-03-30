@@ -23,6 +23,24 @@ The Spiralverse is also the narrative layer for the **Spiral Cascade Behavioral 
 
 ### Editorials
 - [Why Collaborative Magic Is Spiralverse's Strongest Edge](articles/06_collaborative_magic_strongest_edge.md) -- Market positioning: magic as social technology
+- [Hyperbolic Geometry and AI Safety](articles/07_hyperbolic_geometry_ai_safety.md) -- Lore-to-governance bridge through geometric policy
+- [The 14-Layer Security Pipeline](articles/08_14_layer_security_pipeline.md) -- How the SCBE stack maps into narrative and platform control
+- [Post-Quantum Cryptography in SCBE](articles/09_post_quantum_cryptography_scbe.md) -- Quantum-resilient trust framing
+- [Energy-Aware Compute Governor](articles/10_energy_aware_compute_governor.md) -- Scheduling and cost-control surface
+- [The Honest 34 Percent Benchmark](articles/11_honest_benchmark_34_percent.md) -- What failed, what generalized, and why the gap matters
+- [Trichromatic Forgery Resistance](articles/12_trichromatic_forgery_resistance.md) -- Hidden-band structural detection notes
+
+## Corpus and Training Data
+
+- `corpus/manuscripts/avalon-codex-complete-unified.txt` -- long-form Avalon codex/manuscript body
+- `corpus/chapters/revised-chapters-with-ancient-traditions.txt` -- chapter packet with revised scene prose
+- `corpus/character-sheets/avalon-codex-character-sheet.txt` -- compact cast and artifact sheet
+- `training-data/lore_sessions/*.jsonl` -- JSONL lore/training records for characters, canon, roleplay sessions, and deep world context
+
+## Provenance
+
+- The current corpus import came from a stable local restart backup under `Dropbox (Old)`, not a live sync root.
+- Exact source paths and duplicate-variant notes live in [manifests/import-2026-03-30-dropbox-old.md](manifests/import-2026-03-30-dropbox-old.md).
 
 ## Core Characters
 
