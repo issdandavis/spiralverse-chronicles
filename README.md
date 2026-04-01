@@ -1,6 +1,6 @@
 # Spiralverse Chronicles
 
-Lore articles, character profiles, and world-building for the **Spiralverse** -- the narrative universe behind [SCBE-AETHERMOORE](https://github.com/issdandavis/SCBE-AETHERMOORE).
+Lore articles, character profiles, and world-building for the **Spiralverse** -- the narrative universe behind [SCBE-AETHERMOORE](https://aethermoorgames.com).
 
 ## What Is the Spiralverse?
 
@@ -68,7 +68,7 @@ The Spiralverse is also the narrative layer for the **Spiral Cascade Behavioral 
 
 ## Related Projects
 
-- [SCBE-AETHERMOORE](https://github.com/issdandavis/SCBE-AETHERMOORE) -- The AI safety framework
+- [SCBE-AETHERMOORE](https://aethermoorgames.com) -- The AI safety framework
 - [Six Tongues GeoSeal](https://github.com/issdandavis/six-tongues-geoseal) -- Cryptographic toolkit
 
 ---
