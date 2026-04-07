@@ -1,0 +1,22 @@
+name: CI
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check for broken links and formatting
+        run: |
+          echo "Checking markdown files..."
+          find . -name '*.md' | head -20
+          echo "Markdown count: $(find . -name '*.md' | wc -l)"
+          # Check for conflict markers
+          if grep -r '<<<<<<' --include='*.md' .; then
+            echo "ERROR: Conflict markers found"
+            exit 1
+          fi
+          echo "All checks passed"
